@@ -1,0 +1,29 @@
+machine learning:
+
+supervised - using historical data to predict future
+*regression = helps you predict a continuous variable such as house prices or temperature
+- Linear Regression
+- Regularized regression
+- Time series Analysis
+*classification = helps you predict a caterogical variable such as spam - not spam, high priority vs low priority
+- K-Nearest Neighbors
+- Logistic Regression
+- Decision Trees
+- Random Forests
+- Gradient Boosted Tree
+- Naive Bayes - i to omówimy, works really well for text classification
+
+
+unsupervised - using patterns and relationshipsto find matchings
+- K-Means clustering
+- Hierarchical clustering
+- DBSCAN
+- Isolation Forests
+- Principal Component Analysis
+- t-SNE
+- Singular Value Decomposition
+- Non-Negative Matrix Factorization - to omówimy, for topic modelling
+
+Sentiment Analysis - technique: Rules-Based, Library: VADER, input format: raw text
+Text classification: technique: supervised learning(i.e Naive Bayes), library scikit-learn, input format: CV/ TF-IDF
+Topic modelling: technique: unsupervised learning(i.e NMF), library scikit-learn, input format: CV/ TF-IDF
